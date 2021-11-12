@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Ghichu_java2">
         <activity
+            android:name=".editghichu"
+            android:exported="true" />
+        <activity
             android:name=".themghichu"
             android:exported="true" />
         <activity android:name=".MainActivity">

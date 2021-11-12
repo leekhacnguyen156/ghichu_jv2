@@ -3,13 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/ghichu_jv2/app/src/main/res/drawable/ic_baseline_format_align_center_24.xml" value="0.2703125" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/ghichu_jv2/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.264" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/ghichu_jv2/app/src/main/res/drawable/vien.xml" value="0.2703125" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/ghichu_jv2/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/ghichu_jv2/app/src/main/res/layout/activity_themghichu.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/ghichu_jv2/app/src/main/res/layout/ct_note.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/ghichu_jv2/app/src/main/res/layout/more.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/tamp/ghichu_jv2/app/src/main/res/drawable/boder.xml" value="0.14947916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/tamp/ghichu_jv2/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/tamp/ghichu_jv2/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/tamp/ghichu_jv2/app/src/main/res/drawable/ic_baseline_format_list_bulleted_24.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/tamp/ghichu_jv2/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/tamp/ghichu_jv2/app/src/main/res/layout/activity_dsghichu.xml" value="0.259375" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/tamp/ghichu_jv2/app/src/main/res/layout/activity_editghichu.xml" value="0.259375" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/tamp/ghichu_jv2/app/src/main/res/layout/activity_main.xml" value="0.20153985507246377" />
       </map>
     </option>
   </component>
